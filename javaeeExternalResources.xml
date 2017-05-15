@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://eks.minv.sk" />
+    <ignored-resource url="http://sap.com/xi/isuf/3po/" />
+    <ignored-resource url="http://schemas.gov.sk/identity/service/1.7" />
+    <ignored-resource url="http://uvo.gov.sk/iomodule/service" />
+    <ignored-resource url="http://www.orsr.sk/Corwin/OnlineVypisy/" />
+    <ignored-resource url="http://www.orsr.sk/sSluzby/VyhladavanieOR" />
+  </component>
+</application>
