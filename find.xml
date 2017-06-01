@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
@@ -18,20 +18,25 @@
       <mask>*Page_sk.utf8*</mask>
       <mask>build.gradle</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.properties</mask>
       <mask>*</mask>
-      <mask>*.s</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.ka</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propertie</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
