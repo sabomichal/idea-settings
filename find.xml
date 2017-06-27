@@ -5,24 +5,11 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>IT*.java</mask>
-      <mask>*WizardPage.java</mask>
-      <mask>*Dao.java</mask>
-      <mask>*Page.java</mask>
-      <mask>*Page_sk.utf8*</mask>
-      <mask>build.gradle</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.ka</mask>
       <mask>*.k</mask>
-      <mask>*.</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propertie</mask>
@@ -36,6 +23,20 @@
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>8.sql</mask>
+      <mask>8.sq</mask>
+      <mask>8.s</mask>
+      <mask>8.</mask>
+      <mask>8</mask>
+      <mask>*s</mask>
+      <mask>*,sql</mask>
+      <mask>*,sq</mask>
+      <mask>*,s</mask>
+      <mask>*,</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
