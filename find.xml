@@ -3,17 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.ka</mask>
-      <mask>*.k</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propertie</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.properties</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
@@ -32,9 +23,18 @@
       <mask>*,s</mask>
       <mask>*,</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
