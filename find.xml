@@ -30,10 +30,10 @@
       <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
