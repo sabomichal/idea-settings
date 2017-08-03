@@ -7,14 +7,11 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>8.sql</mask>
       <mask>8.sq</mask>
       <mask>8.s</mask>
@@ -38,6 +35,10 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.properties</mask>
+      <mask>x,</mask>
+      <mask>x</mask>
+      <mask>xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
