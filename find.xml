@@ -1,18 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>8.sql</mask>
-      <mask>8.sq</mask>
       <mask>8.s</mask>
       <mask>8.</mask>
       <mask>8</mask>
@@ -22,7 +14,6 @@
       <mask>*,s</mask>
       <mask>*,</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
@@ -38,6 +29,12 @@
       <mask>x</mask>
       <mask>xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
