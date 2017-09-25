@@ -5,11 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.wsdl" />
     <recentFileMasks>
-      <mask>8.s</mask>
-      <mask>8.</mask>
-      <mask>8</mask>
-      <mask>*s</mask>
       <mask>*,sql</mask>
       <mask>*,sq</mask>
       <mask>*,s</mask>
@@ -36,6 +33,10 @@
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.w</mask>
+      <mask>*.ws</mask>
+      <mask>*.wsd</mask>
+      <mask>*.wsdl</mask>
     </recentFileMasks>
   </component>
 </application>
