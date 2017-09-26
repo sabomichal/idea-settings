@@ -5,27 +5,20 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*Dto*" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*,</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
       <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.properties</mask>
       <mask>x,</mask>
       <mask>x</mask>
       <mask>xm</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
@@ -33,10 +26,17 @@
       <mask>*.ws</mask>
       <mask>*.wsd</mask>
       <mask>*.wsdl</mask>
-      <mask>*</mask>
       <mask>*D</mask>
       <mask>*Dto</mask>
       <mask>*Dto*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
