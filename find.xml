@@ -6,7 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.s</mask>
@@ -36,6 +35,7 @@
       <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
