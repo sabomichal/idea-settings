@@ -5,13 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>x,</mask>
       <mask>x</mask>
       <mask>xm</mask>
       <mask>*.xml</mask>
@@ -28,14 +23,20 @@
       <mask>*Dto</mask>
       <mask>*Dto*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
-      <mask>*.properties</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.prio</mask>
+      <mask>*.pri</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.properties</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
