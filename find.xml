@@ -3,12 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*Service*" />
     <recentFileMasks>
-      <mask>x</mask>
-      <mask>xm</mask>
-      <mask>*.xm</mask>
-      <mask>*.g</mask>
-      <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>*.w</mask>
       <mask>*.ws</mask>
@@ -17,7 +13,6 @@
       <mask>*D</mask>
       <mask>*Dto</mask>
       <mask>*Dto*</mask>
-      <mask>*</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
       <mask>*.proper</mask>
@@ -34,6 +29,12 @@
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*S</mask>
+      <mask>*Ser</mask>
+      <mask>*Servi</mask>
+      <mask>*Service</mask>
+      <mask>*Service*</mask>
     </recentFileMasks>
   </component>
 </application>
