@@ -3,9 +3,9 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*Service*</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xsd</mask>
       <mask>p</mask>
@@ -16,8 +16,6 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>xml</mask>
-      <mask>*.xml</mask>
-      <mask>*</mask>
       <mask>*E</mask>
       <mask>*Ex</mask>
       <mask>*Exe</mask>
@@ -34,6 +32,9 @@
       <mask>*Executor*</mask>
       <mask>IT</mask>
       <mask>IT*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
