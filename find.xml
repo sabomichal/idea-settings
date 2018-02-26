@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>xml</mask>
       <mask>*E</mask>
@@ -34,6 +33,7 @@
       <mask>*gradle</mask>
       <mask>*.gradle</mask>
       <mask>*.sql</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
