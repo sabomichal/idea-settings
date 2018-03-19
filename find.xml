@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>pom.xml</mask>
       <mask>xml</mask>
@@ -31,9 +32,9 @@
       <mask>gradl</mask>
       <mask>gradle</mask>
       <mask>*gradle</mask>
-      <mask>*.gradle</mask>
       <mask>*.sql</mask>
       <mask>*.properties</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
