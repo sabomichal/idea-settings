@@ -3,41 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="wholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>pom.xml</mask>
-      <mask>xml</mask>
-      <mask>*E</mask>
-      <mask>*Ex</mask>
-      <mask>*Exe</mask>
-      <mask>*Exec</mask>
-      <mask>*Execu</mask>
-      <mask>*Executir*</mask>
-      <mask>*Executir</mask>
-      <mask>*Executi</mask>
-      <mask>*Execut</mask>
-      <mask>*Executo</mask>
-      <mask>*Executot</mask>
-      <mask>*Executor(</mask>
-      <mask>*Executor</mask>
-      <mask>*Executor*</mask>
-      <mask>IT</mask>
-      <mask>IT*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>g</mask>
-      <mask>gra</mask>
-      <mask>grad</mask>
-      <mask>gradl</mask>
-      <mask>gradle</mask>
-      <mask>*gradle</mask>
-      <mask>*.sql</mask>
-      <mask>*.properties</mask>
-      <mask>*.gradle</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
   </component>
 </application>
