@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="V1505__ITMSC-13479.sql" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
       <mapping pattern="test" type="XML" />
       <mapping pattern="1" type="XML" />
       <mapping ext="xzep" type="XML" />
