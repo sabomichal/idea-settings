@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="V1535__ITMSC-14003_skupiny_PPP" type="PLAIN_TEXT" />
       <mapping pattern="V1505__ITMSC-13479.sql" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping pattern="test" type="XML" />
