@@ -4,6 +4,8 @@
     <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/5b196030_cxf-beans.xsd" />
     <ignored-resource url="http://eks.minv.sk" />
     <ignored-resource url="http://itms.jrz.webservice.axasoft.eu/" />
+    <ignored-resource url="http://itms.sk/services/external/agis/event" />
+    <ignored-resource url="http://itms.sk/services/external/v1" />
     <ignored-resource url="http://sap.com/xi/isuf/3po/" />
     <ignored-resource url="http://schemas.gov.sk/identity/service/1.7" />
     <ignored-resource url="http://uvo.gov.sk/iomodule/service" />
