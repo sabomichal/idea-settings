@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://cxf.apache.org/clustering" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/a10cc77c_clustering.xsd" />
     <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/5b196030_cxf-beans.xsd" />
+    <ignored-resource url="http://agis.vuste-apis.cz/mfr/" />
     <ignored-resource url="http://eks.minv.sk" />
     <ignored-resource url="http://itms.jrz.webservice.axasoft.eu/" />
     <ignored-resource url="http://itms.sk/services/external/agis/event" />
