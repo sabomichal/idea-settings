@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="V1535__ITMSC-14003_skupiny_PPP" type="PLAIN_TEXT" />
       <mapping pattern="V1505__ITMSC-13479.sql" type="PLAIN_TEXT" />
       <mapping pattern="PodmienkaPomociPreSkupinuPppProvider" type="PLAIN_TEXT" />
