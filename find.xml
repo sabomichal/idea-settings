@@ -20,5 +20,6 @@
     <mask>*.gradle</mask>
     <mask>*.wsdl</mask>
     <mask>*.js</mask>
+    <mask>*Service.java</mask>
   </component>
 </application>
