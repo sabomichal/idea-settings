@@ -20,5 +20,6 @@
     <mask>Akcia*.java</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*View.java</mask>
   </component>
 </application>
