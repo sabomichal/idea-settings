@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -15,12 +16,12 @@
     <mask>*.js</mask>
     <mask>*Service.java</mask>
     <mask>*.java</mask>
-    <mask>*.properties</mask>
     <mask>Akcia*.java</mask>
     <mask>*.xml</mask>
     <mask>*View.java</mask>
     <mask>*Dao.java</mask>
     <mask>*Behavior.java</mask>
     <mask>*.sql</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
