@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsd" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>IT*.java</mask>
-    <mask>*.xsd</mask>
     <mask>*.gradle</mask>
     <mask>*.wsdl</mask>
     <mask>*.js</mask>
@@ -22,5 +22,6 @@
     <mask>*Behavior.java</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
