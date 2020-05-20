@@ -19,8 +19,8 @@
     <mask>*View.java</mask>
     <mask>*Dao.java</mask>
     <mask>*Behavior.java</mask>
-    <mask>*.sql</mask>
     <mask>*.properties</mask>
     <mask>*.xsd</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
