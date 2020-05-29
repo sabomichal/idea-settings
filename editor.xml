@@ -1,9 +1,0 @@
-<application>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern pattern="\b(todo|fixme) sabo\b.*" />
-    <filter name="todo sabo">
-      <pattern index="1" />
-    </filter>
-  </component>
-</application>
