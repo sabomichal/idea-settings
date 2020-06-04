@@ -23,5 +23,6 @@
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
+    <mask>*.avdl</mask>
   </component>
 </application>
