@@ -2,6 +2,11 @@
   <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
