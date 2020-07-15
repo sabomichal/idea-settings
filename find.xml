@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.avdl" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -20,11 +21,11 @@
     <mask>*.properties</mask>
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
-    <mask>*.avdl</mask>
     <mask>*.yml</mask>
     <mask>*Config.java</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.avdl</mask>
   </component>
 </application>
