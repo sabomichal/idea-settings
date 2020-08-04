@@ -2,6 +2,9 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
+  <component name="EditorSettings">
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
     <pattern pattern="\b(todo|fixme) sabo\b.*" />
